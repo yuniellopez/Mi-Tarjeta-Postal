@@ -6,7 +6,9 @@ body {
 #big-box {
     width: 500px;
     height: 400px;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
     background-color: #eaeaea;
 }
 
